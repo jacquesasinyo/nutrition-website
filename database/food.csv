@@ -1,0 +1,316 @@
+id,turkish_description,description,category,data_type,fdc_id,created_at,updated_at,photo
+1,"Domates, üzüm, çiğ","Tomatoes, grape, raw",Vegetables and Vegetable Products,Foundation,321360,2025-03-09 17:22:42,2025-03-09 17:53:23,/storage/foods/front-view-red-fresh-tomatoes-br_1741542803.jpg
+2,"Fasulye, çıtçıt, yeşil, konserve, normal paket, süzülmüş katılar","Beans, snap, green, canned, regular pack, drained solids",Vegetables and Vegetable Products,Foundation,321611,2025-03-09 17:22:42,2025-03-11 05:22:07,/storage/foods/close-up-green-beans-against-whi_1741670527.jpg
+3,"Frankfurter, sığır eti, ısıtılmamış","Frankfurter, beef, unheated",Sausages and Luncheon Meats,Foundation,323121,2025-03-09 17:22:42,2025-03-11 05:23:03,/storage/foods/top-view-sausage-assortment-with_1741670583.jpg
+4,"Fındık, badem, kuru kavrulmuş, tuz eklendi","Nuts, almonds, dry roasted, with salt added",Nut and Seed Products,Foundation,323294,2025-03-09 17:22:42,2025-03-11 05:25:49,/storage/foods/recipe-for-salted-almonds-6-500x500_1741670749.jpg
+5,"Lahana, çiğ","Kale, raw",Vegetables and Vegetable Products,Foundation,323505,2025-03-09 17:22:42,2025-03-11 05:28:07,/storage/foods/kale-leaves-flat-lay-food-photog_1741670887.jpg
+6,"Yumurta, bütün, çiğ, dondurulmuş, pastörize edilmiş","Egg, whole, raw, frozen, pasteurized",Dairy and Egg Products,Foundation,323604,2025-03-09 17:22:42,2025-03-12 13:00:12,/storage/foods/images_1741784412.jpg
+7,"Yumurta, beyaz, çiğ, dondurulmuş, pastörize edilmiş","Egg, white, raw, frozen, pasteurized",Dairy and Egg Products,Foundation,323697,2025-03-09 17:22:42,2025-03-12 13:00:43,/storage/foods/egg-whites-cooked-top-large-03_1741784443.jpg
+8,"Yumurta, beyaz, kurutulmuş","Egg, white, dried",Dairy and Egg Products,Foundation,323793,2025-03-09 17:22:42,2025-03-12 13:01:16,/storage/foods/images-1_1741784476.jpg
+9,"Soğan halkaları, ekmekli, eşit kızartılmış, dondurulmuş, hazır, fırında ısıtılmış","Onion rings, breaded, par fried, frozen, prepared, heated in oven",Vegetables and Vegetable Products,Foundation,324317,2025-03-09 17:22:42,2025-03-12 13:01:55,/storage/foods/onion-rings-top-large-05_1741784515.jpg
+10,"Turşu, salatalık, dereotu veya koşer dereotu","Pickles, cucumber, dill or kosher dill",Vegetables and Vegetable Products,Foundation,324653,2025-03-09 17:22:42,2025-03-12 13:02:31,/storage/foods/kosher-dill-pickles-720x_1741784551.jpg
+11,"Peynir, parmesan, rendelenmiş","Cheese, parmesan, grated",Dairy and Egg Products,Foundation,325036,2025-03-09 17:22:42,2025-03-12 13:02:59,/storage/foods/1db38c2a-4c36-4324-a6d5-d452e00c_1741784579.jpg
+12,"Peynir, pastörize süreç, Amerikan, D vitamini güçlendirilmiş","Cheese, pasteurized process, American, vitamin D fortified",Dairy and Egg Products,Foundation,325198,2025-03-09 17:22:42,2025-03-12 13:04:34,/storage/foods/42-hopscotch-queen-68ccfccb-8237_1741784674.jpg
+13,"Greyfurt suyu, beyaz, konserve veya şişelenmiş, şekersiz","Grapefruit juice, white, canned or bottled, unsweetened",Fruits and Fruit Juices,Foundation,325287,2025-03-09 17:22:42,2025-03-12 13:05:12,/storage/foods/514qmglawns_1741784712.jpg
+14,"Şeftali, sarı, çiğ","Peaches, yellow, raw",Fruits and Fruit Juices,Foundation,325430,2025-03-09 17:22:42,2025-03-12 13:05:42,/storage/foods/untitled_1741784742.jpg
+15,"Tohumlar, ayçiçeği tohum çekirdekleri, kuru kavrulmuş, tuz eklenmiştir","Seeds, sunflower seed kernels, dry roasted, with salt added",Nut and Seed Products,Foundation,325524,2025-03-09 17:22:42,2025-03-12 13:06:06,/storage/foods/untitled-1_1741784766.jpg
+16,"Ekmek, beyaz, ticari olarak hazırlanmış","Bread, white, commercially prepared",Baked Products,Foundation,325871,2025-03-09 17:22:43,2025-03-12 13:06:45,/storage/foods/bread-white_1741784805.jpg
+17,"Lahana, dondurulmuş, pişmiş, haşlanmış, süzülmüş, tuzsuz","Kale, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,Foundation,326196,2025-03-09 17:22:43,2025-03-12 13:07:03,/storage/foods/untitled-2_1741784823.jpg
+18,"Hardal, hazır, sarı","Mustard, prepared, yellow",Spices and Herbs,Foundation,326698,2025-03-09 17:22:43,2025-03-12 13:07:57,/storage/foods/2231319-4327dbfd48264b6587a5ed91_1741784877.jpg
+19,"Kivi, yeşil, çiğ","Kiwifruit, green, raw",Fruits and Fruit Juices,Foundation,327046,2025-03-09 17:22:43,2025-03-12 13:08:28,/storage/foods/chopped-kiwi-in-a-bowl-on-a-tabl_1741784908.jpg
+20,"Nektarinler, ham","Nectarines, raw",Fruits and Fruit Juices,Foundation,327357,2025-03-09 17:22:43,2025-03-12 13:10:11,/storage/foods/untitled-3_1741785011.jpg
+21,"Peynir, kaşar","Cheese, cheddar",Dairy and Egg Products,Foundation,328637,2025-03-09 17:22:43,2025-03-12 13:10:57,/storage/foods/untitled-4_1741785057.jpg
+22,"Peynir, yazlık, alçak yağ,% 2 sütfat","Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,Foundation,328841,2025-03-09 17:22:43,2025-03-12 13:11:28,/storage/foods/daisy-pure-and-natural-low-fat-c_1741785088.jpg
+23,"Peynir, mozzarella, düşük nem, kısmi skim","Cheese, mozzarella, low moisture, part-skim",Dairy and Egg Products,Foundation,329370,2025-03-09 17:22:43,2025-03-12 13:12:50,/storage/foods/great-value-finely-shredded-low_1741785170.jpg
+24,"Yumurta, bütün, kurutulmuş","Egg, whole, dried",Dairy and Egg Products,Foundation,329490,2025-03-09 17:22:43,2025-03-12 13:21:58,/storage/foods/images-2_1741785718.jpg
+25,"Yumurta, sarısı, çiğ, dondurulmuş, pastörize edilmiş","Egg, yolk, raw, frozen, pasteurized",Dairy and Egg Products,Foundation,329596,2025-03-09 17:22:43,2025-03-12 13:26:56,/storage/foods/pace-farm-plain-frozen-egg-yolk_1741786016.jpg
+26,"Yumurta, sarısı, kurutulmuş","Egg, yolk, dried",Dairy and Egg Products,Foundation,329716,2025-03-09 17:22:43,2025-03-12 13:30:01,/storage/foods/untitled-5_1741786201.jpg
+27,"Yoğurt, Yunan, sade, yağsız","Yogurt, Greek, plain, nonfat",Dairy and Egg Products,Foundation,330137,2025-03-09 17:22:43,2025-03-16 18:49:24,/storage/foods/untitled-9_1742150964.jpg
+28,"Yoğurt, Yunan, çilek, yağsız","Yogurt, Greek, strawberry, nonfat",Dairy and Egg Products,Foundation,330415,2025-03-09 17:22:43,2025-03-16 18:52:09,/storage/foods/untitled-10_1742151129.jpg
+29,"Yağ, hindistancevizi","Oil, coconut",Fats and Oils,Foundation,330458,2025-03-09 17:22:43,2025-03-16 18:52:41,/storage/foods/untitled-11_1742151161.jpg
+30,"Tavuk, piliç veya fryer, baget, sadece et, pişmiş, kızarmış","Chicken, broilers or fryers, drumstick, meat only, cooked, braised",Poultry Products,Foundation,331897,2025-03-09 17:22:43,2025-03-16 18:53:05,/storage/foods/untitled-12_1742151185.jpg
+31,"Tavuk, broyler veya fryer, meme, ciltsiz, kemiksiz, sadece pişmiş, kızarmış, kızarmış","Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",Poultry Products,Foundation,331960,2025-03-09 17:22:43,2025-03-16 18:54:01,/storage/foods/images-3_1742151241.jpg
+32,"Sos, makarna, spagetti/marinara, hizmete hazır","Sauce, pasta, spaghetti/marinara, ready-to-serve","Soups, Sauces, and Gravies",Foundation,332282,2025-03-09 17:22:43,2025-03-16 18:54:24,/storage/foods/untitled-13_1742151264.jpg
+33,"Jambon, dilimlenmiş, önceden paketlenmiş, şarküteri eti (%96 yağsız, su eklendi)","Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",Sausages and Luncheon Meats,Foundation,332397,2025-03-09 17:22:43,2025-03-16 18:54:50,/storage/foods/untitled-14_1742151290.jpg
+34,"Zeytin, yeşil, manzanilla, Pimiento ile doldurulmuş","Olives, green, Manzanilla, stuffed with pimiento",Fruits and Fruit Juices,Foundation,332791,2025-03-09 17:22:43,2025-03-16 18:55:11,/storage/foods/untitled-15_1742151311.jpg
+35,"Kurabiye, yulaf ezmesi, yumuşak, kuru üzüm","Cookies, oatmeal, soft, with raisins",Baked Products,Foundation,333008,2025-03-09 17:22:43,2025-03-16 18:55:34,/storage/foods/untitled-16_1742151334.jpg
+36,"Domates, konserve, kırmızı, olgun, doğranmış","Tomatoes, canned, red, ripe, diced",Vegetables and Vegetable Products,Foundation,333281,2025-03-09 17:22:43,2025-03-16 18:56:01,/storage/foods/untitled-17_1742151361.jpg
+37,"Balık, Haddock, çiğ","Fish, haddock, raw",Finfish and Shellfish Products,Foundation,333374,2025-03-09 17:22:43,2025-03-16 18:56:41,/storage/foods/images-4_1742151401.jpg
+38,"Balık, pollock, çiğ","Fish, pollock, raw",Finfish and Shellfish Products,Foundation,333476,2025-03-09 17:22:43,2025-03-16 18:57:28,/storage/foods/untitled-18_1742151448.jpg
+39,"Balık, ton balığı, ışık, suda konserve, süzülmüş katılar","Fish, tuna, light, canned in water, drained solids",Finfish and Shellfish Products,Foundation,334194,2025-03-09 17:22:43,2025-03-16 18:57:50,/storage/foods/untitled-19_1742151470.jpg
+40,"Restoran, Çince, kızarmış pirinç, etsiz","Restaurant, Chinese, fried rice, without meat",Restaurant Foods,Foundation,334536,2025-03-09 17:22:43,2025-03-16 18:58:14,/storage/foods/untitled-20_1742151494.jpg
+41,"Restoran, Latino, Tamale, Domuz Et","Restaurant, Latino, tamale, pork",Restaurant Foods,Foundation,334628,2025-03-09 17:22:43,2025-03-16 15:04:41,/storage/foods/untitled-6_1742137481.jpg
+42,"Restoran, Latino, Putusas Con Frijoles (konuşmacı, fasulye)","Restaurant, Latino, pupusas con frijoles (pupusas, bean)",Restaurant Foods,Foundation,334720,2025-03-09 17:22:43,2025-03-16 15:06:49,/storage/foods/untitled-7_1742137609.jpg
+43,"Ekmek, tam buğday, ticari olarak hazırlanmış","Bread, whole-wheat, commercially prepared",Baked Products,Foundation,335240,2025-03-09 17:22:43,2025-03-16 19:02:02,/storage/foods/untitled-21_1742151722.jpg
+44,"Sığır eti, bel, bonfile kızartma, sadece ayrılabilir yalın, kemiksiz, 0 ""yağa kesilmiş, seç, pişirilmiş, kavrulmuş","Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,Foundation,746758,2025-03-09 17:22:43,2025-03-16 19:02:23,/storage/foods/untitled-22_1742151743.jpg
+45,"Sığır eti, bel, üst bel biftek, kemiksiz, dudak, sadece ayrılabilir yalın, 1/8 ""yağ, seçim, ham","Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,Foundation,746759,2025-03-09 17:22:44,2025-03-16 19:03:18,/storage/foods/kebab-beef-top-large-03_1742151798.jpg
+46,"Sığır eti, yuvarlak, yuvarlak kızartma gözü, kemiksiz, sadece ayrılabilir yalın, 0 ""yağa kesilmiş, seç, çiğ","Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,Foundation,746760,2025-03-09 17:22:44,2025-03-16 19:04:21,/storage/foods/untitled-23_1742151861.jpg
+47,"Sığır eti, yuvarlak, üst yuvarlak kızartma, kemiksiz, sadece ayrılabilir yalın, 0 ""yağ, seç, ham olarak kesilmiş","Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,Foundation,746761,2025-03-09 17:22:44,2025-03-16 19:04:43,/storage/foods/untitled-24_1742151883.jpg
+48,"Sığır eti, kısa bel, porterhouse biftek, sadece ayrılabilir yalın, 1/8 ""yağa kesilmiş, seç, çiğ","Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,Foundation,746762,2025-03-09 17:22:44,2025-03-16 19:05:02,/storage/foods/untitled-25_1742151902.jpg
+49,"Sığır eti, kısa bel, t-bone biftek, kemik-in, sadece ayrılabilir yalın, 1/8 ""yağ, seçim, pişmiş, ızgara ile kesilmiş","Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,Foundation,746763,2025-03-09 17:22:44,2025-03-16 19:05:47,/storage/foods/ribeye-top-large-03_1742151947.jpg
+50,"Havuç, dondurulmamış, hazırlıksız","Carrots, frozen, unprepared",Vegetables and Vegetable Products,Foundation,746764,2025-03-09 17:22:44,2025-03-16 19:06:43,/storage/foods/untitled-26_1742152003.jpg
+51,"Peynir, kuru beyaz, queso seco","Cheese, dry white, queso seco",Dairy and Egg Products,Foundation,746765,2025-03-09 17:22:44,2025-03-16 19:07:07,/storage/foods/untitled-27_1742152027.jpg
+52,"Peynir, ricotta, tam süt","Cheese, ricotta, whole milk",Dairy and Egg Products,Foundation,746766,2025-03-09 17:22:44,2025-03-16 19:07:36,/storage/foods/8111nqqc44l-ac-uf8941000-ql80_1742152056.jpg
+53,"Peynir, İsviçre","Cheese, swiss",Dairy and Egg Products,Foundation,746767,2025-03-09 17:22:44,2025-03-16 19:08:59,/storage/foods/untitled-29_1742152139.jpg
+54,"İncir, kurutulmuş, pişmemiş","Figs, dried, uncooked",Fruits and Fruit Juices,Foundation,746768,2025-03-09 17:22:44,2025-03-16 19:11:40,/storage/foods/untitled-31_1742152300.jpg
+55,"Marul, cos veya romaine, çiğ","Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,Foundation,746769,2025-03-09 17:22:44,2025-03-16 19:12:00,/storage/foods/untitled-32_1742152320.jpg
+56,"Kavun, kavun, çiğ","Melons, cantaloupe, raw",Fruits and Fruit Juices,Foundation,746770,2025-03-09 17:22:44,2025-03-16 19:08:38,/storage/foods/untitled-28_1742152118.jpg
+57,"Portakallar, çiğ, naveller","Oranges, raw, navels",Fruits and Fruit Juices,Foundation,746771,2025-03-09 17:22:44,2025-03-16 19:09:23,/storage/foods/untitled-30_1742152163.jpg
+58,"Süt, alçak yağ, sıvı,% 1 sütfat, A vitamini ve D vitamini ile","Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,Foundation,746772,2025-03-09 17:22:44,2025-03-16 19:11:20,/storage/foods/images-6_1742152280.jpg
+59,"Armut, çiğ, bartlett","Pears, raw, bartlett",Fruits and Fruit Juices,Foundation,746773,2025-03-09 17:22:44,2025-03-16 19:12:21,/storage/foods/untitled-33_1742152341.jpg
+60,"Restoran, Çince, tatlı ve ekşi domuz eti","Restaurant, Chinese, sweet and sour pork",Restaurant Foods,Foundation,746774,2025-03-09 17:22:44,2025-03-16 19:12:43,/storage/foods/untitled-34_1742152363.jpg
+61,"Tuz, masa, iyot","Salt, table, iodized",Spices and Herbs,Foundation,746775,2025-03-09 17:22:44,2025-03-16 15:09:25,/storage/foods/untitled-8_1742137765.jpg
+62,"Süt, yağsız, sıvı, A vitamini ve D vitamini (yağsız veya yağsız) ile eklendi","Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,Foundation,746776,2025-03-09 17:22:44,2025-03-17 18:35:04,/storage/foods/untitled-35_1742236504.jpg
+63,"Sos, salsa, hizmete hazır","Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",Foundation,746777,2025-03-09 17:22:44,2025-03-17 18:35:31,/storage/foods/untitled-36_1742236531.jpg
+64,"Süt, Azaltılmış Yağ, Sıvı,% 2 Sütfat, A vitamini ve D vitamini ile","Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,Foundation,746778,2025-03-09 17:22:44,2025-03-17 18:35:52,/storage/foods/untitled-37_1742236552.jpg
+65,"Sosis, kahvaltı sosis, sığır eti, önceden pişirilmemiş, hazırlıksız","Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,Foundation,746779,2025-03-09 17:22:44,2025-03-17 18:36:45,/storage/foods/images-7_1742236605.jpg
+66,"Sosis, İtalyan, domuz eti, hafif, pişmiş, tavada kızartılmış","Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,Foundation,746780,2025-03-09 17:22:44,2025-03-17 18:37:12,/storage/foods/untitled-38_1742236632.jpg
+67,"Sosis, domuz eti, chorizo, bağlantı veya zemin, pişmiş, tavada kızartılmış","Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,Foundation,746781,2025-03-09 17:22:44,2025-03-17 18:37:38,/storage/foods/untitled-39_1742236658.jpg
+68,"Süt, bütün,% 3.25 sütfat, D vitamini eklendi","Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,Foundation,746782,2025-03-09 17:22:44,2025-03-17 18:38:04,/storage/foods/untitled-40_1742236684.jpg
+69,"Sosis, Türkiye, Kahvaltı Bağlantıları, Hafif, Çiğ","Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,Foundation,746783,2025-03-09 17:22:44,2025-03-17 18:38:23,/storage/foods/untitled-41_1742236703.jpg
+70,"Şekerler, Granüle","Sugars, granulated",Sweets,Foundation,746784,2025-03-09 17:22:44,2025-03-17 18:38:51,/storage/foods/untitled-42_1742236731.jpg
+71,"Türkiye, zemin,% 93 yağsız,% 7 yağ, tavada parçalanmış kırıntılar","Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,Foundation,746785,2025-03-09 17:22:44,2025-03-17 18:39:29,/storage/foods/untitled-43_1742236769.jpg
+72,"Jambon, dilimlenmiş, restoran","Ham, sliced, restaurant",Pork Products,Foundation,746952,2025-03-09 17:22:44,2025-03-17 18:40:00,/storage/foods/untitled-44_1742236800.jpg
+73,"Peynir, Amerikan, restoran","Cheese, American, restaurant",Dairy and Egg Products,Foundation,747429,2025-03-09 17:22:44,2025-03-17 18:40:21,/storage/foods/untitled-45_1742236821.jpg
+74,"Fasulye, kuru, orta kırmızı (% 0 nem)","Beans, Dry, Medium Red (0% moisture)",Legumes and Legume Products,Foundation,747430,2025-03-09 17:22:45,2025-03-17 18:40:42,/storage/foods/untitled-46_1742236842.jpg
+75,"Fasulye, kuru, kırmızı (% 0 nem)","Beans, Dry, Red (0% moisture)",Legumes and Legume Products,Foundation,747431,2025-03-09 17:22:45,2025-03-17 18:41:07,/storage/foods/untitled-47_1742236867.jpg
+76,"Fasulye, kuru, Flor de Mayo (% 0 nem)","Beans, Dry, Flor de Mayo (0% moisture)",Legumes and Legume Products,Foundation,747432,2025-03-09 17:22:45,2025-03-17 18:41:28,/storage/foods/untitled-48_1742236888.jpg
+77,"Fasulye, kuru, kahverengi (% 0 nem)","Beans, Dry, Brown (0% moisture)",Legumes and Legume Products,Foundation,747433,2025-03-09 17:22:45,2025-03-17 18:41:50,/storage/foods/untitled-49_1742236910.jpg
+78,"Fasulye, kuru, ten rengi (% 0 nem)","Beans, Dry, Tan (0% moisture)",Legumes and Legume Products,Foundation,747434,2025-03-09 17:22:45,2025-03-17 18:42:22,/storage/foods/untitled-50_1742236942.jpg
+79,"Fasulye, kuru, açık bronz (% 0 nem)","Beans, Dry, Light Tan (0% moisture)",Legumes and Legume Products,Foundation,747435,2025-03-09 17:22:45,2025-03-17 18:42:43,/storage/foods/untitled-51_1742236963.jpg
+80,"Fasulye, kuru, carioca (% 0 nem)","Beans, Dry, Carioca (0% moisture)",Legumes and Legume Products,Foundation,747436,2025-03-09 17:22:45,2025-03-17 18:43:09,/storage/foods/untitled-52_1742236989.jpg
+81,"Fasulye, kuru, kızılcık (% 0 nem)","Beans, Dry, Cranberry (0% moisture)",Legumes and Legume Products,Foundation,747437,2025-03-09 17:22:45,2025-03-17 18:43:39,/storage/foods/untitled-53_1742237019.jpg
+82,"Fasulye, kuru, açık kırmızı böbrek (% 0 nem)","Beans, Dry, Light Red Kidney (0% moisture)",Legumes and Legume Products,Foundation,747438,2025-03-09 17:22:45,2025-03-17 18:44:01,/storage/foods/untitled-54_1742237041.jpg
+83,"Fasulye, kuru, pembe (% 0 nem)","Beans, Dry, Pink (0% moisture)",Legumes and Legume Products,Foundation,747439,2025-03-09 17:22:45,2025-03-17 18:44:20,/storage/foods/untitled-55_1742237060.jpg
+84,"Fasulye, kuru, koyu kırmızı böbrek (% 0 nem)","Beans, Dry, Dark Red Kidney (0% moisture)",Legumes and Legume Products,Foundation,747440,2025-03-09 17:22:45,2025-03-17 18:44:41,/storage/foods/untitled-56_1742237081.jpg
+85,"Fasulye, kuru, donanma (% 0 nem)","Beans, Dry, Navy (0% moisture)",Legumes and Legume Products,Foundation,747441,2025-03-09 17:22:45,2025-03-17 18:45:05,/storage/foods/untitled-57_1742237105.jpg
+86,"Fasulye, kuru, küçük beyaz (% 0 nem)","Beans, Dry, Small White (0% moisture)",Legumes and Legume Products,Foundation,747442,2025-03-09 17:22:45,2025-03-17 18:45:26,/storage/foods/untitled-58_1742237126.jpg
+87,"Fasulye, kuru, küçük kırmızı (% 0 nem)","Beans, Dry, Small Red (0% moisture)",Legumes and Legume Products,Foundation,747443,2025-03-09 17:22:45,2025-03-17 18:45:48,/storage/foods/untitled-59_1742237148.jpg
+88,"Fasulye, kuru, siyah (% 0 nem)","Beans, Dry, Black (0% moisture)",Legumes and Legume Products,Foundation,747444,2025-03-09 17:22:45,2025-03-17 18:46:20,/storage/foods/untitled-60_1742237180.jpg
+89,"Fasulye, kuru, pinto (% 0 nem)","Beans, Dry, Pinto (0% moisture)",Legumes and Legume Products,Foundation,747445,2025-03-09 17:22:45,2025-03-17 18:46:42,/storage/foods/untitled-61_1742237202.jpg
+90,"Fasulye, kuru, büyük kuzey (% 0 nem)","Beans, Dry, Great Northern (0% moisture)",Legumes and Legume Products,Foundation,747446,2025-03-09 17:22:45,2025-03-09 17:29:04,
+91,"Brokoli, çiğ","Broccoli, raw",Vegetables and Vegetable Products,Foundation,747447,2025-03-09 17:22:45,2025-03-09 17:29:04,
+92,"Ketçap, restoran","Ketchup, restaurant",Vegetables and Vegetable Products,Foundation,747693,2025-03-09 17:22:45,2025-03-09 17:29:04,
+93,"Yumurta, Sınıf A, Büyük, Yumurta Beyaz","Eggs, Grade A, Large, egg white",Dairy and Egg Products,Foundation,747997,2025-03-09 17:22:45,2025-03-09 17:29:04,
+94,"Yumurta, Sınıf A, Büyük, Yumurta Sarısı","Eggs, Grade A, Large, egg yolk",Dairy and Egg Products,Foundation,748236,2025-03-09 17:22:45,2025-03-09 17:29:05,
+95,"Petrol, kanola","Oil, canola",Fats and Oils,Foundation,748278,2025-03-09 17:22:45,2025-03-09 17:29:05,
+96,"Petrol, mısır","Oil, corn",Fats and Oils,Foundation,748323,2025-03-09 17:22:45,2025-03-09 17:29:05,
+97,"Petrol, soya fasulyesi","Oil, soybean",Fats and Oils,Foundation,748366,2025-03-09 17:22:45,2025-03-09 17:29:06,
+98,"Petrol, zeytin, sızma bakire","Oil, olive, extra virgin",Fats and Oils,Foundation,748608,2025-03-09 17:22:45,2025-03-09 17:29:06,
+99,"Yumurta, derece A, büyük, yumurta bütün","Eggs, Grade A, Large, egg whole",Dairy and Egg Products,Foundation,748967,2025-03-09 17:22:45,2025-03-09 17:29:06,
+100,"Domuz eti, tedavi, pastırma, pişmiş, restoran","Pork, cured, bacon, cooked, restaurant",Pork Products,Foundation,749420,2025-03-09 17:22:45,2025-03-09 17:29:06,
+101,"Tereyağı, çubuk, tuzsuz","Butter, stick, unsalted",Dairy and Egg Products,Foundation,789828,2025-03-09 17:22:45,2025-03-09 17:29:07,
+102,"Un, buğday, çok amaçlı, zenginleştirilmiş, ağartılmış","Flour, wheat, all-purpose, enriched, bleached",Cereal Grains and Pasta,Foundation,789890,2025-03-09 17:22:45,2025-03-09 17:29:07,
+103,"Un, buğday, çok amaçlı, zenginleştirilmiş, ağartılmamış","Flour, wheat, all-purpose, enriched, unbleached",Cereal Grains and Pasta,Foundation,789951,2025-03-09 17:22:45,2025-03-09 17:29:07,
+104,"Un, buğday, çok amaçlı, zenginleştirilmemiş, ağartılmamış","Flour, wheat, all-purpose, unenriched, unbleached",Cereal Grains and Pasta,Foundation,790018,2025-03-09 17:22:45,2025-03-09 17:29:08,
+105,"Un, tam buğday, zenginleştirilmemiş","Flour, whole wheat, unenriched",Cereal Grains and Pasta,Foundation,790085,2025-03-09 17:22:45,2025-03-09 17:29:08,
+106,"Un, ekmek, beyaz, zenginleştirilmiş, ağartılmamış","Flour, bread, white, enriched, unbleached",Cereal Grains and Pasta,Foundation,790146,2025-03-09 17:22:45,2025-03-09 17:29:08,
+107,"Un, pirinç, beyaz, zenginleştirilmemiş","Flour, rice, white, unenriched",Cereal Grains and Pasta,Foundation,790214,2025-03-09 17:22:45,2025-03-09 17:29:09,
+108,"Un, mısır, sarı, güzel yemek, zenginleştirilmiş","Flour, corn, yellow, fine meal, enriched",Cereal Grains and Pasta,Foundation,790276,2025-03-09 17:22:45,2025-03-09 17:29:09,
+109,"Tereyağı, çubuk, tuzlu","Butter, stick, salted",Dairy and Egg Products,Foundation,790508,2025-03-09 17:22:45,2025-03-09 17:29:09,
+110,"Soğan, kırmızı, çiğ","Onions, red, raw",Vegetables and Vegetable Products,Foundation,790577,2025-03-09 17:22:45,2025-03-09 17:29:10,
+111,"Soğan, sarı, çiğ","Onions, yellow, raw",Vegetables and Vegetable Products,Foundation,790646,2025-03-09 17:22:45,2025-03-09 17:29:10,
+112,"Sarımsak, çiğ","Garlic, raw",Vegetables and Vegetable Products,Foundation,1104647,2025-03-09 17:22:45,2025-03-09 17:29:10,
+113,"Un, soya, deforme olmuş","Flour, soy, defatted",Legumes and Legume Products,Foundation,1104705,2025-03-09 17:22:45,2025-03-09 17:29:11,
+114,"Un, soya, tam yağlı","Flour, soy, full-fat",Legumes and Legume Products,Foundation,1104766,2025-03-09 17:22:45,2025-03-09 17:29:11,
+115,"Un, pirinç, kahverengi","Flour, rice, brown",Cereal Grains and Pasta,Foundation,1104812,2025-03-09 17:22:45,2025-03-09 17:29:11,
+116,"Un, pirinç, yapışkan","Flour, rice, glutinous",Cereal Grains and Pasta,Foundation,1104867,2025-03-09 17:22:45,2025-03-09 17:29:11,
+117,"Un, pasta, zenginleştirilmemiş, ağartılmamış","Flour, pastry, unenriched, unbleached",Cereal Grains and Pasta,Foundation,1104913,2025-03-09 17:22:45,2025-03-09 17:29:12,
+118,"Soğan, beyaz, çiğ","Onions, white, raw",Vegetables and Vegetable Products,Foundation,1104962,2025-03-09 17:22:45,2025-03-09 17:29:12,
+119,"Muz, aşırı olgun, çiğ","Bananas, overripe, raw",Fruits and Fruit Juices,Foundation,1105073,2025-03-09 17:22:45,2025-03-09 17:29:12,
+120,"Muz, olgun ve hafif olgun, çiğ","Bananas, ripe and slightly ripe, raw",Fruits and Fruit Juices,Foundation,1105314,2025-03-09 17:22:45,2025-03-09 17:29:13,
+121,"Elmalar, kırmızı lezzetli, ciltli, çiğ","Apples, red delicious, with skin, raw",Fruits and Fruit Juices,Foundation,1750339,2025-03-09 17:22:45,2025-03-09 17:29:13,
+122,"Elma, fuji, ciltli, çiğ","Apples, fuji, with skin, raw",Fruits and Fruit Juices,Foundation,1750340,2025-03-09 17:22:45,2025-03-09 17:29:13,
+123,"Elma, gala, ciltli, çiğ","Apples, gala, with skin, raw",Fruits and Fruit Juices,Foundation,1750341,2025-03-09 17:22:45,2025-03-09 17:29:14,
+124,"Elma, Granny Smith, ciltli, çiğ","Apples, granny smith, with skin, raw",Fruits and Fruit Juices,Foundation,1750342,2025-03-09 17:22:45,2025-03-09 17:29:14,
+125,"Elma, honeycrisp, cilt, çiğ","Apples, honeycrisp, with skin, raw",Fruits and Fruit Juices,Foundation,1750343,2025-03-09 17:22:45,2025-03-09 17:29:14,
+126,"Petrol, fıstık","Oil, peanut",Fats and Oils,Foundation,1750348,2025-03-09 17:22:45,2025-03-09 17:29:15,
+127,"Petrol, ayçiçeği","Oil, sunflower",Fats and Oils,Foundation,1750349,2025-03-09 17:22:45,2025-03-09 17:29:15,
+128,"Petrol, aspir","Oil, safflower",Fats and Oils,Foundation,1750350,2025-03-09 17:22:45,2025-03-09 17:29:16,
+129,"Yağ, zeytin, ekstra ışık","Oil, olive, extra light",Fats and Oils,Foundation,1750351,2025-03-09 17:22:45,2025-03-09 17:29:16,
+130,"Mantar, Aslan Yele","Mushroom, lion's mane",Vegetables and Vegetable Products,Foundation,1999626,2025-03-09 17:22:45,2025-03-09 17:29:17,
+131,"Mantar, istiridye","Mushroom, oyster",Vegetables and Vegetable Products,Foundation,1999627,2025-03-09 17:22:45,2025-03-09 17:29:17,
+132,"Mantar, shiitake","Mushrooms, shiitake",Vegetables and Vegetable Products,Foundation,1999628,2025-03-09 17:22:45,2025-03-09 17:29:17,
+133,"Mantar, beyaz düğme","Mushrooms, white button",Vegetables and Vegetable Products,Foundation,1999629,2025-03-09 17:22:45,2025-03-09 17:29:18,
+134,"Soya sütü, şekersiz, sade, raf istikrarlı","Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,Foundation,1999630,2025-03-09 17:22:45,2025-03-09 17:29:18,
+135,"Badem sütü, şekersiz, sade, raf kararlı","Almond milk, unsweetened, plain, shelf stable",Beverages,Foundation,1999631,2025-03-09 17:22:45,2025-03-09 17:29:18,
+136,"Ispan, bebeğim","Spinach, baby",Vegetables and Vegetable Products,Foundation,1999632,2025-03-09 17:22:45,2025-03-09 17:29:18,
+137,"Ispanak, olgun","Spinach, mature",Vegetables and Vegetable Products,Foundation,1999633,2025-03-09 17:22:45,2025-03-09 17:29:19,
+138,"Domates, Roma","Tomato, roma",Vegetables and Vegetable Products,Foundation,1999634,2025-03-09 17:22:45,2025-03-09 17:29:19,
+139,"Un, 00","Flour, 00",Cereal Grains and Pasta,Foundation,2003586,2025-03-09 17:22:45,2025-03-09 17:29:20,
+140,"Un, hecelenmiş, tam tahıl","Flour, spelt, whole grain",Cereal Grains and Pasta,Foundation,2003587,2025-03-09 17:22:45,2025-03-09 17:29:20,
+141,"Un, terim, kaba ve yarı-coarse","Flour, semolina, coarse and semi-coarse",Cereal Grains and Pasta,Foundation,2003588,2025-03-09 17:22:45,2025-03-09 17:29:20,
+142,"Un ,molina, iyi","Flour, semolina, fine",Cereal Grains and Pasta,Foundation,2003589,2025-03-09 17:22:45,2025-03-09 17:29:21,
+143,"Konsantre, raf kararından C vitamini eklenmiş elma suyu","Apple juice, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,Foundation,2003590,2025-03-09 17:22:45,2025-03-09 17:29:21,
+144,"Portakal suyu, hamur yok, güçlendirilmemiş, konsantre, buzdolabından","Orange juice, no pulp, not fortified, from concentrate, refrigerated",Fruits and Fruit Juices,Foundation,2003591,2025-03-09 17:22:46,2025-03-09 17:29:21,
+145,"Üzüm suyu, mor, konsantre, raf kararından C vitamini ile eklenmiştir","Grape juice, purple, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,Foundation,2003592,2025-03-09 17:22:46,2025-03-09 17:29:21,
+146,"Üzüm suyu, beyaz, konsantre, raf kararından C vitamini eklendi","Grape juice, white, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,Foundation,2003593,2025-03-09 17:22:46,2025-03-09 17:29:22,
+147,"Gürülümlü olmayan kızılcık suyu, konsantre, raf kararından","Cranberry juice, not fortified, from concentrate, shelf stable",Fruits and Fruit Juices,Foundation,2003594,2025-03-09 17:22:46,2025-03-09 17:29:22,
+148,"Greyfurt suyu, kırmızı, güçlendirilmemiş, konsantre değil, buzdolabı","Grapefruit juice, red, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,Foundation,2003595,2025-03-09 17:22:46,2025-03-09 17:29:23,
+149,"Konsantre, raf kararından eklenmiş malzemelerle domates suyu","Tomato juice, with added ingredients, from concentrate, shelf stable",Vegetables and Vegetable Products,Foundation,2003596,2025-03-09 17:22:46,2025-03-09 17:29:23,
+150,"Portakal suyu, hamur yok, güçlendirilmemiş, konsantre değil, buzdolabından","Orange juice, no pulp, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,Foundation,2003597,2025-03-09 17:22:46,2025-03-09 17:29:23,
+151,"Mantar, Portabella","Mushroom, portabella",Vegetables and Vegetable Products,Foundation,2003598,2025-03-09 17:22:46,2025-03-09 17:29:24,
+152,"Mantar, kral istiridye","Mushroom, king oyster",Vegetables and Vegetable Products,Foundation,2003599,2025-03-09 17:22:46,2025-03-09 17:29:24,
+153,"Mantar, enoki","Mushroom, enoki",Vegetables and Vegetable Products,Foundation,2003600,2025-03-09 17:22:46,2025-03-09 17:29:24,
+154,"Mantar, Crimini","Mushroom, crimini",Vegetables and Vegetable Products,Foundation,2003601,2025-03-09 17:22:46,2025-03-09 17:29:24,
+155,"Mantar, Maitake","Mushroom, maitake",Vegetables and Vegetable Products,Foundation,2003602,2025-03-09 17:22:46,2025-03-09 17:29:24,
+156,"Mantar, kayın","Mushroom, beech",Vegetables and Vegetable Products,Foundation,2003603,2025-03-09 17:22:46,2025-03-09 17:29:25,
+157,"Mantar, pioppini","Mushroom, pioppini",Vegetables and Vegetable Products,Foundation,2003604,2025-03-09 17:22:46,2025-03-09 17:29:25,
+158,"Soya sütü, tatlandırılmış, sade, soğutulmuş","Soy milk, sweetened, plain, refrigerated",Legumes and Legume Products,Foundation,2257044,2025-03-09 17:22:46,2025-03-09 17:29:26,
+159,"Badem sütü, şekersiz, sade, soğutulmuş","Almond milk, unsweetened, plain, refrigerated",Beverages,Foundation,2257045,2025-03-09 17:22:46,2025-03-09 17:29:26,
+160,"Yulaf sütü, şekersiz, sade, buzdolabı","Oat milk, unsweetened, plain, refrigerated",Beverages,Foundation,2257046,2025-03-09 17:22:46,2025-03-09 17:29:26,
+161,"Havuç, olgun, çiğ","Carrots, mature, raw",Vegetables and Vegetable Products,Foundation,2258586,2025-03-09 17:22:46,2025-03-09 17:29:27,
+162,"Havuç, bebek, çiğ","Carrots, baby, raw",Vegetables and Vegetable Products,Foundation,2258587,2025-03-09 17:22:46,2025-03-09 17:29:27,
+163,"Biber, çan, yeşil, çiğ","Peppers, bell, green, raw",Vegetables and Vegetable Products,Foundation,2258588,2025-03-09 17:22:46,2025-03-09 17:29:27,
+164,"Biber, çan, sarı, çiğ","Peppers, bell, yellow, raw",Vegetables and Vegetable Products,Foundation,2258589,2025-03-09 17:22:46,2025-03-09 17:29:28,
+165,"Biber, çan, kırmızı, çiğ","Peppers, bell, red, raw",Vegetables and Vegetable Products,Foundation,2258590,2025-03-09 17:22:46,2025-03-09 17:29:28,
+166,"Biber, çan, turuncu, çiğ","Peppers, bell, orange, raw",Vegetables and Vegetable Products,Foundation,2258591,2025-03-09 17:22:46,2025-03-09 17:29:28,
+167,"Ayran, az yağlı","Buttermilk, low fat",Dairy and Egg Products,Foundation,2259792,2025-03-09 17:22:46,2025-03-09 17:29:29,
+168,"Yoğurt, sade, tam süt","Yogurt, plain, whole milk",Dairy and Egg Products,Foundation,2259793,2025-03-09 17:22:46,2025-03-09 17:29:29,
+169,"Yoğurt, Yunan, sade, tam süt","Yogurt, Greek, plain, whole milk",Dairy and Egg Products,Foundation,2259794,2025-03-09 17:22:46,2025-03-09 17:29:29,
+170,"Peynir, parmesan, rendelenmiş, soğutulmuş","Cheese, parmesan, grated, refrigerated",Dairy and Egg Products,Foundation,2259795,2025-03-09 17:22:46,2025-03-09 17:29:29,
+171,"Peynir, beyaz peynir, tam süt, ufalanmış","Cheese, feta, whole milk, crumbled",Dairy and Egg Products,Foundation,2259796,2025-03-09 17:22:46,2025-03-09 17:29:29,
+172,"Un, badem","Flour, almond",Nut and Seed Products,Foundation,2261420,2025-03-09 17:22:46,2025-03-09 17:29:30,
+173,"Un, yulaf, tam tahıl","Flour, oat, whole grain",Cereal Grains and Pasta,Foundation,2261421,2025-03-09 17:22:46,2025-03-09 17:29:30,
+174,"Un, patates","Flour, potato",Vegetables and Vegetable Products,Foundation,2261422,2025-03-09 17:22:46,2025-03-09 17:29:30,
+175,"Fıstık ezmesi, kremsi","Peanut butter, creamy",Legumes and Legume Products,Foundation,2262072,2025-03-09 17:22:46,2025-03-09 17:29:30,
+176,"Susam tereyağı, kremsi","Sesame butter, creamy",Nut and Seed Products,Foundation,2262073,2025-03-09 17:22:46,2025-03-09 17:29:31,
+177,"Badem yağı, kremsi","Almond butter, creamy",Nut and Seed Products,Foundation,2262074,2025-03-09 17:22:46,2025-03-09 17:29:31,
+178,"Keten tohumu, zemin","Flaxseed, ground",Nut and Seed Products,Foundation,2262075,2025-03-09 17:22:46,2025-03-09 17:29:31,
+179,"Süzme peynir, tam yağlı, büyük veya küçük lor","Cottage cheese, full fat, large or small curd",Dairy and Egg Products,Foundation,2346384,2025-03-09 17:22:46,2025-03-09 17:29:31,
+180,"Krem peynir, tam yağ, blok","Cream cheese, full fat, block",Dairy and Egg Products,Foundation,2346385,2025-03-09 17:22:46,2025-03-09 17:29:32,
+181,"Krem, ağır","Cream, heavy",Dairy and Egg Products,Foundation,2346386,2025-03-09 17:22:46,2025-03-09 17:29:32,
+182,"Krem, ekşi, tam yağ","Cream, sour, full fat",Dairy and Egg Products,Foundation,2346387,2025-03-09 17:22:46,2025-03-09 17:29:32,
+183,"Marul, buzdağı, çiğ","Lettuce, iceberg, raw",Vegetables and Vegetable Products,Foundation,2346388,2025-03-09 17:22:46,2025-03-09 17:29:32,
+184,"Marul, romaine, yeşil, çiğ","Lettuce, romaine, green, raw",Vegetables and Vegetable Products,Foundation,2346389,2025-03-09 17:22:46,2025-03-09 17:29:33,
+185,"Marul, yaprak, kırmızı, çiğ","Lettuce, leaf, red, raw",Vegetables and Vegetable Products,Foundation,2346390,2025-03-09 17:22:46,2025-03-09 17:29:33,
+186,"Marul, yaprak, yeşil, çiğ","Lettuce, leaf, green, raw",Vegetables and Vegetable Products,Foundation,2346391,2025-03-09 17:22:46,2025-03-09 17:29:33,
+187,"Fındık, çam fıstığı, çiğ","Nuts, pine nuts, raw",Nut and Seed Products,Foundation,2346392,2025-03-09 17:22:46,2025-03-09 17:29:33,
+188,"Fındık, badem, bütün, çiğ","Nuts, almonds, whole, raw",Nut and Seed Products,Foundation,2346393,2025-03-09 17:22:46,2025-03-09 17:29:34,
+189,"Fındık, Ceviz, İngilizce, Haller, Ham","Nuts, walnuts, English, halves, raw",Nut and Seed Products,Foundation,2346394,2025-03-09 17:22:46,2025-03-09 17:29:34,
+190,"Fındık, ceviz, yarım, çiğ","Nuts, pecans, halves, raw",Nut and Seed Products,Foundation,2346395,2025-03-09 17:22:46,2025-03-09 17:29:35,
+191,"Yulaf, tam tahıl, haddelenmiş, eski moda","Oats, whole grain, rolled, old fashioned",Cereal Grains and Pasta,Foundation,2346396,2025-03-09 17:22:46,2025-03-09 17:29:35,
+192,"Yulaf, tam tahıl, çelik kesim","Oats, whole grain, steel cut",Cereal Grains and Pasta,Foundation,2346397,2025-03-09 17:22:46,2025-03-09 17:29:36,
+193,"Ananas, ham","Pineapple, raw",Fruits and Fruit Juices,Foundation,2346398,2025-03-09 17:22:46,2025-03-09 17:29:36,
+194,"Kiraz, tatlı, koyu kırmızı, çiğ","Cherries, sweet, dark red, raw",Fruits and Fruit Juices,Foundation,2346399,2025-03-09 17:22:46,2025-03-09 17:29:36,
+195,"Fasulye, snap, yeşil, çiğ","Beans, snap, green, raw",Vegetables and Vegetable Products,Foundation,2346400,2025-03-09 17:22:46,2025-03-09 17:29:37,
+196,"Patates, Russet, ciltsiz, çiğ","Potatoes, russet, without skin, raw",Vegetables and Vegetable Products,Foundation,2346401,2025-03-09 17:22:46,2025-03-09 17:29:37,
+197,"Patates, kırmızı, ciltsiz, çiğ","Potatoes, red, without skin, raw",Vegetables and Vegetable Products,Foundation,2346402,2025-03-09 17:22:46,2025-03-09 17:29:38,
+198,"Patates, altın, ciltsiz, çiğ","Potatoes, gold, without skin, raw",Vegetables and Vegetable Products,Foundation,2346403,2025-03-09 17:22:46,2025-03-09 17:29:38,
+199,"Tatlı patates, turuncu et, ciltsiz, çiğ","Sweet potatoes, orange flesh, without skin, raw",Vegetables and Vegetable Products,Foundation,2346404,2025-03-09 17:22:46,2025-03-09 17:29:38,
+200,"Kereviz, ham","Celery, raw",Vegetables and Vegetable Products,Foundation,2346405,2025-03-09 17:22:46,2025-03-09 17:29:39,
+201,"Salatalık, kabuklu, çiğ","Cucumber, with peel, raw",Vegetables and Vegetable Products,Foundation,2346406,2025-03-09 17:22:46,2025-03-09 17:29:39,
+202,"Lahana, yeşil, çiğ","Cabbage, green, raw",Vegetables and Vegetable Products,Foundation,2346407,2025-03-09 17:22:46,2025-03-09 17:29:40,
+203,"Lahana, kırmızı, çiğ","Cabbage, red, raw",Vegetables and Vegetable Products,Foundation,2346408,2025-03-09 17:22:46,2025-03-09 17:29:40,
+204,"Çilek, çiğ","Strawberries, raw",Fruits and Fruit Juices,Foundation,2346409,2025-03-09 17:22:46,2025-03-09 17:29:41,
+205,"Ahududu, çiğ","Raspberries, raw",Fruits and Fruit Juices,Foundation,2346410,2025-03-09 17:22:46,2025-03-09 17:29:41,
+206,"Yaban mersini, çiğ","Blueberries, raw",Fruits and Fruit Juices,Foundation,2346411,2025-03-09 17:22:46,2025-03-09 17:29:41,
+207,"Üzüm, kırmızı, çekirdeksiz, çiğ","Grapes, red, seedless, raw",Fruits and Fruit Juices,Foundation,2346412,2025-03-09 17:22:46,2025-03-09 17:29:42,
+208,"Üzüm, yeşil, çekirdeksiz, çiğ","Grapes, green, seedless, raw",Fruits and Fruit Juices,Foundation,2346413,2025-03-09 17:22:46,2025-03-09 17:29:42,
+209,"Elma püresi, şekersiz, C vitamini eklendi","Applesauce, unsweetened, with added vitamin C",Fruits and Fruit Juices,Foundation,2346414,2025-03-09 17:22:46,2025-03-09 17:29:42,
+210,"Un, Amaranth","Flour, amaranth",Cereal Grains and Pasta,Foundation,2512371,2025-03-09 17:22:46,2025-03-09 17:29:43,
+211,"Un, kinoa","Flour, quinoa",Cereal Grains and Pasta,Foundation,2512372,2025-03-09 17:22:46,2025-03-09 17:29:43,
+212,"Un, sorgum","Flour, sorghum",Cereal Grains and Pasta,Foundation,2512373,2025-03-09 17:22:46,2025-03-09 17:29:43,
+213,"Un, karabuğday","Flour, buckwheat",Cereal Grains and Pasta,Foundation,2512374,2025-03-09 17:22:46,2025-03-09 17:29:43,
+214,"Un, çavdar","Flour, rye",Cereal Grains and Pasta,Foundation,2512375,2025-03-09 17:22:46,2025-03-09 17:29:43,
+215,"Un, arpa","Flour, barley",Cereal Grains and Pasta,Foundation,2512376,2025-03-09 17:22:46,2025-03-09 17:29:44,
+216,"Un, manyok","Flour, cassava",Vegetables and Vegetable Products,Foundation,2512377,2025-03-09 17:22:46,2025-03-09 17:29:44,
+217,"Karabuğday, tam tahıl","Buckwheat, whole grain",Cereal Grains and Pasta,Foundation,2512378,2025-03-09 17:22:46,2025-03-09 17:29:44,
+218,"Darı, tam tahıl","Millet, whole grain",Cereal Grains and Pasta,Foundation,2512379,2025-03-09 17:22:46,2025-03-09 17:29:45,
+219,"Pirinç, kahverengi, uzun tahıl, zenginleştirilmemiş, çiğ","Rice, brown, long grain, unenriched, raw",Cereal Grains and Pasta,Foundation,2512380,2025-03-09 17:22:46,2025-03-09 17:29:45,
+220,"Pirinç, beyaz, uzun tahıl, zenginleştirilmemiş, çiğ","Rice, white, long grain, unenriched, raw",Cereal Grains and Pasta,Foundation,2512381,2025-03-09 17:22:46,2025-03-09 17:29:45,
+221,"Sığır eti, öğütülmüş,% 90 yağsız et /% 10 yağ, çiğ","Beef, ground, 90% lean meat / 10% fat, raw",Beef Products,Foundation,2514743,2025-03-09 17:22:46,2025-03-09 17:29:46,
+222,"Sığır eti, öğütülmüş,% 80 yağsız et /% 20 yağ, çiğ","Beef, ground, 80% lean meat / 20% fat, raw",Beef Products,Foundation,2514744,2025-03-09 17:22:47,2025-03-09 17:29:46,
+223,"Domuz eti, zemin, çiğ","Pork, ground, raw",Pork Products,Foundation,2514745,2025-03-09 17:22:47,2025-03-09 17:29:47,
+224,"Tavuk, zemin, katkı maddeleri, çiğ","Chicken, ground, with additives, raw",Poultry Products,Foundation,2514746,2025-03-09 17:22:47,2025-03-09 17:29:47,
+225,"Türkiye, zemin,% 93 yalın/% 7 yağ, çiğ","Turkey, ground, 93% lean/ 7% fat, raw",Poultry Products,Foundation,2514747,2025-03-09 17:22:47,2025-03-09 17:29:48,
+226,"Fındık, brezilnuts, çiğ","Nuts, brazilnuts, raw",Nut and Seed Products,Foundation,2515373,2025-03-09 17:22:47,2025-03-09 17:29:48,
+227,"Fındık, kaju fıstığı, çiğ","Nuts, cashew nuts, raw",Nut and Seed Products,Foundation,2515374,2025-03-09 17:22:47,2025-03-09 17:29:49,
+228,"Fındık, fındık veya filberts, çiğ","Nuts, hazelnuts or filberts, raw",Nut and Seed Products,Foundation,2515375,2025-03-09 17:22:47,2025-03-09 17:29:49,
+229,"Fıstık, çiğ","Peanuts, raw",Legumes and Legume Products,Foundation,2515376,2025-03-09 17:22:47,2025-03-09 17:29:49,
+230,"Un, kestane","Flour, chestnut",Nut and Seed Products,Foundation,2515377,2025-03-09 17:22:47,2025-03-09 17:29:50,
+231,"Fındık, macadamia fındık, çiğ","Nuts, macadamia nuts, raw",Nut and Seed Products,Foundation,2515378,2025-03-09 17:22:47,2025-03-09 17:29:50,
+232,"Fındık, fıstık fındık, çiğ","Nuts, pistachio nuts, raw",Nut and Seed Products,Foundation,2515379,2025-03-09 17:22:47,2025-03-09 17:29:50,
+233,"Tohumlar, kabak tohumu (pepitas), çiğ","Seeds, pumpkin seeds (pepitas), raw",Nut and Seed Products,Foundation,2515380,2025-03-09 17:22:47,2025-03-09 17:29:50,
+234,"Tohumlar, ayçiçeği tohumu, çekirdek, çiğ","Seeds, sunflower seed, kernel, raw",Nut and Seed Products,Foundation,2515381,2025-03-09 17:22:47,2025-03-09 17:29:51,
+235,"Un, hindistancevizi","Flour, coconut",Nut and Seed Products,Foundation,2515382,2025-03-09 17:22:47,2025-03-09 17:29:51,
+236,"Fasulye, cannellini, kuru","Beans, cannellini, dry",Legumes and Legume Products,Foundation,2644281,2025-03-09 17:22:47,2025-03-09 17:29:51,
+237,"Nohut, (Garbanzo Fasulye, Bengal Gram), kuru","Chickpeas, (garbanzo beans, bengal gram), dry",Legumes and Legume Products,Foundation,2644282,2025-03-09 17:22:47,2025-03-09 17:29:52,
+238,"Mercimek, kuru","Lentils, dry",Legumes and Legume Products,Foundation,2644283,2025-03-09 17:22:47,2025-03-09 17:29:52,
+239,"Siyah gözlü bezelye, kuru","Blackeye pea, dry",Legumes and Legume Products,Foundation,2644284,2025-03-09 17:22:47,2025-03-09 17:29:52,
+240,"Fasulye, siyah, konserve, sodyum eklendi, boşaltılmış ve durulanmış","Beans, black, canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644285,2025-03-09 17:22:47,2025-03-09 17:29:53,
+241,"Fasulye, lacivert, konserve, sodyum eklendi, boşaltılmış ve durulanmış","Beans, navy, canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644286,2025-03-09 17:22:47,2025-03-09 17:29:53,
+242,"Fasulye, Cannellini, konserve, sodyum eklendi, boşaltılmış ve durulanmış","Beans, cannellini, canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644287,2025-03-09 17:22:47,2025-03-09 17:29:53,
+243,"Nohut (Garbanzo Fasulye, Bengal Gram), konserve, sodyum eklendi, boşaltılmış ve durulanmış","Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644288,2025-03-09 17:22:47,2025-03-09 17:29:54,
+244,"Fasulye, böbrek, koyu kırmızı, konserve, sodyum eklendi, şeker eklendi, boşaltılmış ve durulanmış","Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,Foundation,2644289,2025-03-09 17:22:47,2025-03-09 17:29:54,
+245,"Fasulye, böbrek, açık kırmızı, konserve, sodyum eklendi, şeker eklendi, boşaltılmış ve durulanmış","Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,Foundation,2644290,2025-03-09 17:22:47,2025-03-09 17:29:54,
+246,"Bezelye, yeşil, tatlı, konserve, sodyum eklendi, şeker eklendi, boşaltılmış ve durulanmış","Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",Vegetables and Vegetable Products,Foundation,2644291,2025-03-09 17:22:47,2025-03-09 17:29:54,
+247,"Fasulye, pinto, konserve, sodyum eklendi, boşaltılmış ve durulanmış","Beans, pinto, canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644292,2025-03-09 17:22:47,2025-03-09 17:29:55,
+248,"Blackeye bezelye, konserve, sodyum eklendi, boşaltılmış ve durulanmış","Blackeye pea, canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644293,2025-03-09 17:22:47,2025-03-09 17:29:55,
+249,"Fasulye, büyük kuzey, konserve, sodyum eklendi, boşaltılmış ve durulanmış","Beans, great northern, canned, sodium added, drained and rinsed",Legumes and Legume Products,Foundation,2644294,2025-03-09 17:22:47,2025-03-09 17:29:55,
+250,"Domuz eti, bel, kemiksiz, çiğ","Pork, loin, boneless, raw",Pork Products,Foundation,2646168,2025-03-09 17:22:47,2025-03-09 17:29:56,
+251,"Domuz eti, bel, bonfile, kemiksiz, çiğ","Pork, loin, tenderloin, boneless, raw",Pork Products,Foundation,2646169,2025-03-09 17:22:47,2025-03-09 17:29:56,
+252,"Tavuk, göğüs, kemiksiz, derisiz, çiğ","Chicken, breast, boneless, skinless, raw",Poultry Products,Foundation,2646170,2025-03-09 17:22:47,2025-03-09 17:29:56,
+253,"Tavuk, uyluk, kemiksiz, derisiz, çiğ","Chicken, thigh, boneless, skinless, raw",Poultry Products,Foundation,2646171,2025-03-09 17:22:47,2025-03-09 17:29:57,
+254,"Sığır eti, ribeye, biftek, kemiksiz, seçim, çiğ","Beef, ribeye, steak, boneless, choice, raw",Beef Products,Foundation,2646172,2025-03-09 17:22:47,2025-03-09 17:29:57,
+255,"Sığır eti, yuvarlak, üst tur, kemiksiz, seçim, ham","Beef, round, top round, boneless, choice, raw",Beef Products,Foundation,2646173,2025-03-09 17:22:47,2025-03-09 17:29:57,
+256,"Sığır eti, Chuck, Rosto, Boneless, Seçim, Ham","Beef, chuck, roast, boneless, choice, raw",Beef Products,Foundation,2646174,2025-03-09 17:22:47,2025-03-09 17:29:57,
+257,"Sığır eti, kanat, biftek, kemiksiz, seçim, çiğ","Beef, flank, steak, boneless, choice, raw",Beef Products,Foundation,2646175,2025-03-09 17:22:47,2025-03-09 17:29:57,
+258,"Yoğurt, sade, yağsız","Yogurt, plain, nonfat",Dairy and Egg Products,Foundation,2647437,2025-03-09 17:22:47,2025-03-09 17:29:58,
+259,"Peynir, Monterey Jack, Katı","Cheese, monterey jack, solid",Dairy and Egg Products,Foundation,2647438,2025-03-09 17:22:47,2025-03-09 17:29:58,
+260,"Peynir, pastörize edilmiş proses peynir yemeği veya ürünü, Amerikalı, bekarlar","Cheese, pasteurized process cheese food or product, American, singles",Dairy and Egg Products,Foundation,2647439,2025-03-09 17:22:47,2025-03-09 17:29:58,
+261,"Peynir, provolone, dilimlenmiş","Cheese, provolone, sliced",Dairy and Egg Products,Foundation,2647440,2025-03-09 17:22:47,2025-03-09 17:29:59,
+262,"Peynir, oaxaca, katı","Cheese, oaxaca, solid",Dairy and Egg Products,Foundation,2647441,2025-03-09 17:22:47,2025-03-09 17:29:59,
+263,"Peynir, queso fresk, sağlam","Cheese, queso fresco, solid",Dairy and Egg Products,Foundation,2647442,2025-03-09 17:22:47,2025-03-09 17:29:59,
+264,"Peynir, cotija, katı","Cheese, cotija, solid",Dairy and Egg Products,Foundation,2647443,2025-03-09 17:22:47,2025-03-09 17:29:59,
+265,"Balık, somon, sockeye, vahşi yakalanmış, çiğ","Fish, salmon, sockeye, wild caught, raw",Finfish and Shellfish Products,Foundation,2684440,2025-03-09 17:22:47,2025-03-09 17:30:00,
+266,"Balık, Somon, Atlantik, Çiftlik Yükseltilmiş, Ham","Fish, salmon, Atlantic, farm raised, raw",Finfish and Shellfish Products,Foundation,2684441,2025-03-09 17:22:47,2025-03-09 17:30:00,
+267,"Balık, tilapia, çiftlik yükseltilmiş, ham","Fish, tilapia, farm raised, raw",Finfish and Shellfish Products,Foundation,2684442,2025-03-09 17:22:47,2025-03-09 17:30:00,
+268,"Kabuklular, karides, çiftlik yetiştirilmiş, ham","Crustaceans, shrimp, farm raised, raw",Finfish and Shellfish Products,Foundation,2684443,2025-03-09 17:22:47,2025-03-09 17:30:01,
+269,"Balık, morina, Atlantik, vahşi yakalanmış, çiğ","Fish, cod, Atlantic, wild caught, raw",Finfish and Shellfish Products,Foundation,2684444,2025-03-09 17:22:47,2025-03-09 17:30:01,
+270,"Balık, yayın balığı, çiftlik yükseltilmiş, çiğ","Fish, catfish, farm raised, raw",Finfish and Shellfish Products,Foundation,2684445,2025-03-09 17:22:47,2025-03-09 17:30:01,
+271,"Kabuklular, yengeç, mavi yüzme, yumru, pastörize, soğutulmuş","Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",Finfish and Shellfish Products,Foundation,2684446,2025-03-09 17:22:47,2025-03-09 17:30:01,
+272,"Squash, yaz, yeşil, kabak, cilt, çiğ içerir","Squash, summer, green, zucchini, includes skin, raw",Vegetables and Vegetable Products,Foundation,2685568,2025-03-09 17:22:47,2025-03-09 17:30:01,
+273,"Squash, yaz, sarı, cilt, çiğ içerir","Squash, summer, yellow, includes skin, raw",Vegetables and Vegetable Products,Foundation,2685569,2025-03-09 17:22:47,2025-03-09 17:30:02,
+274,"Squash, kış, butternut, çiğ","Squash, winter, butternut, raw",Vegetables and Vegetable Products,Foundation,2685570,2025-03-09 17:22:47,2025-03-09 17:30:02,
+275,"Squash, kış, meşe palamudu, çiğ","Squash, winter, acorn, raw",Vegetables and Vegetable Products,Foundation,2685571,2025-03-09 17:22:47,2025-03-09 17:30:02,
+276,"Lahana, bok choy, çiğ","Cabbage, bok choy, raw",Vegetables and Vegetable Products,Foundation,2685572,2025-03-09 17:22:47,2025-03-09 17:30:03,
+277,"Karnabahar, ham","Cauliflower, raw",Vegetables and Vegetable Products,Foundation,2685573,2025-03-09 17:22:47,2025-03-09 17:30:03,
+278,"Yakalar, çiğ","Collards, raw",Vegetables and Vegetable Products,Foundation,2685574,2025-03-09 17:22:47,2025-03-09 17:30:03,
+279,"Brüksel lahanası, çiğ","Brussels sprouts, raw",Vegetables and Vegetable Products,Foundation,2685575,2025-03-09 17:22:47,2025-03-09 17:30:04,
+280,"Pancar, çiğ","Beets, raw",Vegetables and Vegetable Products,Foundation,2685576,2025-03-09 17:22:47,2025-03-09 17:30:04,
+281,"Patlıcan, çiğ","Eggplant, raw",Vegetables and Vegetable Products,Foundation,2685577,2025-03-09 17:22:47,2025-03-09 17:30:04,
+282,"Tuz ilavesi ile domates, bütün, konserve, katılar ve sıvılar","Tomatoes, whole, canned, solids and liquids, with salt added",Vegetables and Vegetable Products,Foundation,2685578,2025-03-09 17:22:47,2025-03-09 17:30:05,
+283,"Domates, sos, konserve, tuz eklenir","Tomato, sauce, canned, with salt added",Vegetables and Vegetable Products,Foundation,2685579,2025-03-09 17:22:47,2025-03-09 17:30:05,
+284,"Domates, macun, konserve, tuz eklenmeden","Tomato, paste, canned, without salt added",Vegetables and Vegetable Products,Foundation,2685580,2025-03-09 17:22:47,2025-03-09 17:30:06,
+285,"Domates, ezilmiş, konserve","Tomatoes, crushed, canned",Vegetables and Vegetable Products,Foundation,2685581,2025-03-09 17:22:47,2025-03-09 17:30:06,
+286,"Domates, püre, konserve","Tomato, puree, canned",Vegetables and Vegetable Products,Foundation,2685582,2025-03-09 17:22:47,2025-03-09 17:30:06,
+287,"Kayısı, ciltli, çiğ","Apricot, with skin, raw",Fruits and Fruit Juices,Foundation,2710815,2025-03-09 17:22:47,2025-03-09 17:30:06,
+288,"Kavunlar, bal özü, çiğ","Melons, honeydew, raw",Fruits and Fruit Juices,Foundation,2710816,2025-03-09 17:22:47,2025-03-09 17:30:07,
+289,"Plantains, olgun, çiğ","Plantains, ripe, raw",Fruits and Fruit Juices,Foundation,2710817,2025-03-09 17:22:47,2025-03-09 17:30:07,
+290,"Plantains, yetersiz, çiğ","Plantains, underripe, raw",Fruits and Fruit Juices,Foundation,2710818,2025-03-09 17:22:47,2025-03-09 17:30:07,
+291,"Chia tohumları, kuru, çiğ","Chia seeds, dry, raw",Cereal Grains and Pasta,Foundation,2710819,2025-03-09 17:22:47,2025-03-09 17:30:08,
+292,"Bulgur, kuru, çiğ","Bulgur, dry, raw",Cereal Grains and Pasta,Foundation,2710820,2025-03-09 17:22:47,2025-03-09 17:30:08,
+293,"Yabani pirinç, kuru, çiğ","Wild rice, dry, raw",Cereal Grains and Pasta,Foundation,2710821,2025-03-09 17:22:47,2025-03-09 17:30:08,
+294,"Roka, bebeğim, çiğ","Arugula, baby, raw",Vegetables and Vegetable Products,Foundation,2710822,2025-03-09 17:22:47,2025-03-09 17:30:09,
+295,"Kuşkonmaz, yeşil, çiğ","Asparagus, green, raw",Vegetables and Vegetable Products,Foundation,2710823,2025-03-09 17:22:47,2025-03-09 17:30:09,
+296,"Avokado, Hass, soyulmuş, çiğ","Avocado, Hass, peeled, raw",Fruits and Fruit Juices,Foundation,2710824,2025-03-09 17:22:47,2025-03-09 17:30:09,
+297,"Pirinç, siyah, zenginleştirilmemiş, çiğ","Rice, black, unenriched, raw",Cereal Grains and Pasta,Foundation,2710825,2025-03-09 17:22:47,2025-03-09 17:30:09,
+298,"Mısır, tatlı, sarı ve beyaz çekirdekler, taze, çiğ","Corn, sweet, yellow and white kernels,  fresh, raw",Vegetables and Vegetable Products,Foundation,2710826,2025-03-09 17:22:47,2025-03-09 17:30:10,
+299,"Einkorn, tahıl, kuru, çiğ","Einkorn, grain, dry, raw",Cereal Grains and Pasta,Foundation,2710827,2025-03-09 17:22:47,2025-03-09 17:30:10,
+300,"Farro, inci, kuru, çiğ","Farro, pearled, dry, raw",Cereal Grains and Pasta,Foundation,2710828,2025-03-09 17:22:47,2025-03-09 17:30:10,
+301,"Fonio, tahıl, kuru, çiğ","Fonio, grain, dry, raw",Cereal Grains and Pasta,Foundation,2710829,2025-03-09 17:22:47,2025-03-09 17:30:10,
+302,"Khorasan, tahıl, kuru, çiğ","Khorasan, grain, dry, raw",Cereal Grains and Pasta,Foundation,2710830,2025-03-09 17:22:47,2025-03-09 17:30:11,
+303,"Kiwifruit (kivi), yeşil, soyulmuş, çiğ","Kiwifruit (kiwi), green, peeled, raw",Fruits and Fruit Juices,Foundation,2710831,2025-03-09 17:22:47,2025-03-09 17:30:11,
+304,"Mandarin, çekirdeksiz, soyulmuş, çiğ","Mandarin, seedless, peeled, raw",Fruits and Fruit Juices,Foundation,2710832,2025-03-09 17:22:47,2025-03-09 17:30:11,
+305,"Mango, Tommy Atkins, soyulmuş, çiğ","Mango, Tommy Atkins, peeled, raw",Fruits and Fruit Juices,Foundation,2710833,2025-03-09 17:22:47,2025-03-09 17:30:11,
+306,"Mango, Ataulfo, soyulmuş, ham","Mango, Ataulfo, peeled, raw",Fruits and Fruit Juices,Foundation,2710834,2025-03-09 17:22:47,2025-03-09 17:30:12,
+307,"Mısır unu, masa harina, beyaz veya sarı, kuru, çiğ","Corn flour, masa harina, white or yellow, dry, raw",Cereal Grains and Pasta,Foundation,2710835,2025-03-09 17:22:47,2025-03-09 17:30:12,
+308,"Armut, anjou, yeşil, ciltli, çiğ","Pear, Anjou, green, with skin, raw",Fruits and Fruit Juices,Foundation,2710836,2025-03-09 17:22:47,2025-03-09 17:30:12,
+309,"Erik, siyah, ciltli, çiğ","Plum, black, with skin, raw",Fruits and Fruit Juices,Foundation,2710837,2025-03-09 17:22:47,2025-03-09 17:30:13,
+310,"Pirinç, kırmızı, zenginleştirilmemiş, kuru, çiğ","Rice, red, unenriched, dry, raw",Cereal Grains and Pasta,Foundation,2710838,2025-03-09 17:22:47,2025-03-09 17:30:13,
+311,"Sorgum Bran, Beyaz, Şükransız, Kuru, Ham","Sorghum bran, white, unenriched, dry, raw",Cereal Grains and Pasta,Foundation,2710839,2025-03-09 17:22:47,2025-03-09 17:30:13,
+312,"Sorgum unu, beyaz, incili, zenginleştirilmemiş, kuru, çiğ","Sorghum flour, white, pearled, unenriched, dry, raw",Cereal Grains and Pasta,Foundation,2710840,2025-03-09 17:22:47,2025-03-09 17:30:13,
+313,"Sorgum tahıl, beyaz, incili, zenginleştirilmemiş, kuru, çiğ","Sorghum grain, white, pearled, unenriched, dry, raw",Cereal Grains and Pasta,Foundation,2710841,2025-03-09 17:22:47,2025-03-09 17:30:14,
+314,"Sorgum, tam tahıl, beyaz, kuru, çiğ","Sorghum, whole grain, white, dry, raw",Cereal Grains and Pasta,Foundation,2710842,2025-03-09 17:22:47,2025-03-09 17:30:14,
+315,"Plantains, aşırı olgun, çiğ","Plantains, overripe, raw",Fruits and Fruit Juices,Foundation,2710843,2025-03-09 17:22:47,2025-03-09 17:30:14,
